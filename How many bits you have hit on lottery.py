@@ -11,4 +11,4 @@ for number in bits:
         nothits += 1
         
 print("You hits : ", hits)
-print("You can't hits : ",nothits)
+print("You can't hits : ",nothits) 
